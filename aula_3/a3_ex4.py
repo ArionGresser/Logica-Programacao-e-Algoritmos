@@ -6,4 +6,4 @@ numero = int(input("Digite o valor desejado: "))
 if numero % 2 == 0:
     print(numero / 2)
     
-print('Programa Finalizado...')
+print('Programa Finalizada...')
