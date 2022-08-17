@@ -20,4 +20,4 @@ while True:
     contador += 1
 
 media = soma / contador
-print(f"A media dos valores digitados e: {media:.2f}")
+print(f"A média dos valores digitados e: {media:.2f}")
