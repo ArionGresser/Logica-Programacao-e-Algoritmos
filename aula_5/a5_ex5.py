@@ -3,13 +3,13 @@
 # “NÃO ACHEI” caso contrário. 
 
 
-nomes = ["Arion", "Lorenzo", "Luciano", "William", "Bruna" ]
+nomes = ["Arion", "Eduardo", "Gustavo", "Marcelo", "Bruna", "Celso", "Antonio"]
 
 nome = str(input("Digite seu nome da lista de convidados: "))
 
 if nome in nomes:
-    print("ACHEI!")
+    print("Bem vindo, você pode entrar!")
 
 else:
-    print("NÃO ACHEI!")
+    print("Você não foi convidado, retire-se!")
 

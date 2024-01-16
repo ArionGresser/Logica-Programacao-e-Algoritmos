@@ -16,5 +16,5 @@ for i in range(5):
         maior = valor
         posicao = i
 
-print(f"O maior valor e: {maior} e esta na posicao: {posicao}")
+print(f"O maior valor é: {maior} e esta na posição: {posicao}")
 

@@ -3,13 +3,13 @@
 # e assim por diante. Mostre os dois vetores. 
 
 
-lista_normal  = [1, 2, 3, 4, 5]
+normal_list  = [1, 2, 3, 4, 5]
 
-idx = len(lista_normal) - 1
-lista_inversa = []
+idx = len(normal_list) - 1
+reverse_list = []
 
 while (idx >= 0):
-    lista_inversa.append(lista_normal[idx])
+    reverse_list.append(normal_list[idx])
     idx =idx -1
 
-print(lista_inversa)
+print(reverse_list)
