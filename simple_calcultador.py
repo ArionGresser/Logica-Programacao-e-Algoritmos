@@ -14,4 +14,4 @@ elif operation == "*":
 elif operation == "/":
     print("Result of Division: "), print(n1/n2), print("--------END--------");
 else:
-    print("!! FATAL ERROR !! You isert an invalid input, verify the correct options and try again.");
+    print("!! FATAL ERROR !! You insert an invalid input, verify the correct options and try again.");
